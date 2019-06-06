@@ -3,13 +3,13 @@
 
 ## Part 1 : Intro to Pytorch in Deep Learning
 
-i. Tensors in PyTorch
-ii. Neural Networks in PyTorch
-iii. Training Neural Networks
-iv. Fashion-MNIST
-v. Inference and Validation
-vi. Saving and Loading Models
-vii. Loading Image Data
-viii. Transfer Learning
+<p>i. Tensors in PyTorch<p>
+<p>ii. Neural Networks in PyTorch<p>
+<p>iii. Training Neural Networks<p>
+<p>iv. Fashion-MNIST<p>
+<p>v. Inference and Validation<p>
+<p>vi. Saving and Loading Models<p>
+<p>vii. Loading Image Data<p>
+<p>viii. Transfer Learning<p>
 
 ## Part 2 : Introducing Differential Privacy
