@@ -13,3 +13,13 @@
 <p>viii. Transfer Learning<p>
 
 ## Part 2 : Introducing Differential Privacy
+<p>i. Toy Differential Privacy - Simple Database queries<p>
+<p>ii. Towards evaluating the differential privacy of a function<p>
+<p>iii. A basic differencing attack<p>
+<p>iv. The formal definition of differetial privacy<p>
+<p>v. Adding noise for global differential privacy<p>
+<p>vi. Differential Privacy for deep learning<p>
+<p>vii. Pate analysis<p>
+
+## Part 3 : Federated Learning
+
