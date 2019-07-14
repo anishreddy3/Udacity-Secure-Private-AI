@@ -22,4 +22,6 @@
 <p>vii. Pate analysis<p>
 
 ## Part 3 : Federated Learning
+<p>i. Introducing Federated Learning<p>
+<p>ii. Introducing/Installing PySyft<p>
 
