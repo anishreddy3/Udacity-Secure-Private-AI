@@ -24,4 +24,7 @@
 ## Part 3 : Federated Learning
 <p>i. Introducing Federated Learning<p>
 <p>ii. Introducing/Installing PySyft<p>
+<p>iii. Basic Remote Execution in PySyft<p>
+<p>iv. Introducing Remote arithmetic<p>
+<p>v. Garbage Collection and common errors<p>
 
