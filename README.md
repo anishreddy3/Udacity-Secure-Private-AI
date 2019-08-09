@@ -27,6 +27,7 @@
 <p>iii. Basic Remote Execution in PySyft<p>
 <p>iv. Introducing Remote arithmetic<p>
 <p>v. Garbage Collection and common errors<p>
+<p>vi. Pointer chain operations<p>
   
   ## Part 4 : Encrypted Deep Learning
 
