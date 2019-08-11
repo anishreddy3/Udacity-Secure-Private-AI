@@ -32,4 +32,5 @@
 <p>viii. Pointer chain operations<p>
   
   ## Part 4 : Encrypted Deep Learning
+  <p>i. Introducing Encrypted Deep Learning<p>
 
