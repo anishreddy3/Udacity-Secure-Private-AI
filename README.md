@@ -27,6 +27,10 @@
 <p>iii. Basic Remote Execution in PySyft<p>
 <p>iv. Introducing Remote arithmetic<p>
 <p>v. Garbage Collection and common errors<p>
+<p>vi.Toy Federated Learning
+<p>vii.Advanced remote execution tools
+<p>viii. Pointer chain operations<p>
   
   ## Part 4 : Encrypted Deep Learning
+  <p>i. Introducing Encrypted Deep Learning<p>
 
