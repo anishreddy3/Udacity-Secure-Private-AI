@@ -33,4 +33,4 @@
   
   ## Part 4 : Encrypted Deep Learning
   <p>i. Introducing Encrypted Deep Learning<p>
-
+  <p>ii. Encrypted Subtraction and Public Multiplication<p>
