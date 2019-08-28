@@ -31,6 +31,8 @@
 <p>vii.Advanced remote execution tools
 <p>viii. Pointer chain operations<p>
   
-  ## Part 4 : Encrypted Deep Learning
-  <p>i. Introducing Encrypted Deep Learning<p>
+## Part 4 : Securing Federated Learning
+<p>i. Intro to additive secret sharing<p>
+<p>ii. Fixing additive secret sharing<p>
+  
 
