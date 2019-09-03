@@ -31,14 +31,14 @@
 <p>vii.Advanced remote execution tools
 <p>viii. Pointer chain operations<p>
   
-<<<<<<< HEAD
 ## Part 4 : Securing Federated Learning
 <p>i. Intro to additive secret sharing<p>
 <p>ii. Fixing additive secret sharing<p>
   
 
-=======
-  ## Part 4 : Encrypted Deep Learning
-  <p>i. Introducing Encrypted Deep Learning<p>
-  <p>ii. Encrypted Subtraction and Public Multiplication<p>
->>>>>>> 7695b5360683e919ee1a0892c8b475ebaf0f8252
+## Part 4 : Encrypted Deep Learning
+<p>i. Introducing Encrypted Deep Learning<p>
+<p>ii. Encrypted Subtraction and Public Multiplication<p>
+<p>iii. Encrypted Computation in Pysyft<p>
+<p>iv. Encrypted Deep Learning in PyTorch<p>
+s
