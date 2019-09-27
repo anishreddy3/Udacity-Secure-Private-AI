@@ -41,4 +41,3 @@
 <p>ii. Encrypted Subtraction and Public Multiplication<p>
 <p>iii. Encrypted Computation in Pysyft<p>
 <p>iv. Encrypted Deep Learning in PyTorch<p>
-s
